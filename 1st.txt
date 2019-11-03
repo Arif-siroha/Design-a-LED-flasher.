@@ -1,0 +1,11 @@
+Aim Design a LED flasher.
+Apparatus: Arduino Board, LED, Resistance - 220ohm.
+Procedure:
+step1:
+take a led 
+step2:
+take a breadboard.
+step3:
+join led with breadboard and glow the light.
+conclusion :
+light glow with proper working and show blinking
